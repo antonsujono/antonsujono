@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there, I'm Anton Sujono 👋
 
-<!--
-**antonsujono/antonsujono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with 5+ years of experience in Logistics & Supply Chain Operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Throughout my career, I have led operational teams, monitored KPIs, analyzed large operational datasets, and improved business processes through data-driven decision making.
+
+Currently, I'm expanding my technical skills in Data Analytics at Hacktiv8.
+
+---
+
+## Tech Stack
+
+### Data Analytics
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Tableau
+- PostgreSQL
+
+### Programming
+
+- JavaScript
+- Node.js
+- Express.js
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## Currently Learning
+
+- Advanced SQL
+- Data Visualization
+- Statistical Analysis
+- Machine Learning
+- Business Intelligence
+
+---
+
+## Featured Projects
+
+Coming Soon 🚀
+
+- SQL Portfolio
+- Python Data Analysis
+- Power BI Dashboard
+- Hacktiv8 Capstone
+
+---
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/antonsujono
