@@ -21,12 +21,6 @@ Currently, I'm expanding my technical skills in Data Analytics at Hacktiv8.
 - Tableau
 - PostgreSQL
 
-### Programming
-
-- JavaScript
-- Node.js
-- Express.js
-
 ### Tools
 
 - Git
