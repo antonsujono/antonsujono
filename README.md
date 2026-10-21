@@ -1,56 +1,47 @@
-# Hi there, I'm Anton Sujono 👋
+# Hi there, I'm Anton! 👋
 
-## About Me
+### Aspiring Data Analyst | Logistics & Operations Analytics
 
-I'm an aspiring Data Analyst with 5+ years of experience in Logistics & Supply Chain Operations.
+I'm a data analytics enthusiast with a professional background in **Logistics Operations, Control Tower Monitoring, and Performance Management**.
 
-Throughout my career, I have led operational teams, monitored KPIs, analyzed large operational datasets, and improved business processes through data-driven decision making.
+I have experience in monitoring operational KPIs, analyzing shipment performance, preparing reports, and improving operational processes.
 
-Currently, I'm expanding my technical skills in Data Analytics at Hacktiv8.
+Currently, I'm expanding my technical skills in **Data Analytics, Data Engineering, and Business Intelligence** to transform raw data into meaningful insights.
 
----
+### 🛠️ Tech Stack
 
-## Tech Stack
+**Programming & Querying**
 
-### Data Analytics
+Python | SQL | PostgreSQL | MySQL
 
-- SQL
-- Python
-- Excel
-- Power BI
-- Tableau
-- PostgreSQL
+**Data Analytics & Visualization**
 
-### Tools
+Pandas | NumPy | Matplotlib | Seaborn | Tableau | Power BI
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+**Data Engineering**
 
----
+Apache Airflow | PySpark | Docker | ETL Pipelines
 
-## Currently Learning
+**Tools**
 
-- Advanced SQL
-- Data Visualization
-- Statistical Analysis
-- Machine Learning
-- Business Intelligence
+Git | GitHub | VS Code | Jupyter Notebook | Excel
 
----
+### 📊 What I'm Working On
 
-## Featured Projects
+- Building end-to-end Data Analytics and Data Engineering projects.
+- Developing automated ETL pipelines.
+- Creating interactive dashboards and business reports.
+- Exploring logistics and supply chain analytics.
 
-Coming Soon 🚀
+### 🎯 Career Interests
 
-- SQL Portfolio
-- Python Data Analysis
-- Power BI Dashboard
-- Hacktiv8 Capstone
+Data Analyst | Operations Analyst | Logistics Analyst | Business Intelligence Analyst
+
+### 📫 Let's Connect
+
+- **LinkedIn:** www.linkedin.com/in/antonsujono/
+- **Email:** antonsujono23@gmail.com
 
 ---
 
-## Connect with Me
-
-- LinkedIn: www.linkedin.com/in/antonsujono
+*Turning data into insights, and insights into better decisions.*
